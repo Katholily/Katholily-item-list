@@ -21822,6 +21822,300 @@
 		"category": "Melee weapons",
 		"defname": "SMM_Zweihander"
 	},
+	{
+		"abr": "blacklarvae",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "AA_BlackLarvae"
+	},
+	{
+		"abr": "ocularoriginator",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "AA_OcularOriginator"
+	},
+	{
+		"abr": "psytrainer(acidspit)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_AcidSpit"
+	},
+	{
+		"abr": "psytrainer(chargeandskewer)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ChargeAndSkewer"
+	},
+	{
+		"abr": "psytrainer(chemfuelnodules)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ChemfuelNodules"
+	},
+	{
+		"abr": "psytrainer(clawfrenzy)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_ClawFrenzy"
+	},
+	{
+		"abr": "psytrainer(concentratedlight)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Laser"
+	},
+	{
+		"abr": "psytrainer(destroyeyes)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_StrikeEyes"
+	},
+	{
+		"abr": "psytrainer(disablingstrike)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_DisablingStrike"
+	},
+	{
+		"abr": "psytrainer(electrify)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Electrify"
+	},
+	{
+		"abr": "psytrainer(empblow)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_EmpBlow"
+	},
+	{
+		"abr": "psytrainer(fatalblow)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_FatalBlow"
+	},
+	{
+		"abr": "psytrainer(fungalskin)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_FungalSkin"
+	},
+	{
+		"abr": "psytrainer(greaterocularsprout)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_GreaterOcularSprout"
+	},
+	{
+		"abr": "psytrainer(hover)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Hover"
+	},
+	{
+		"abr": "psytrainer(ko)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_KO"
+	},
+	{
+		"abr": "psytrainer(leapingcharge)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Charge"
+	},
+	{
+		"abr": "psytrainer(legskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_LegSkip"
+	},
+	{
+		"abr": "psytrainer(lightsustenance)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_LightSustenance"
+	},
+	{
+		"abr": "psytrainer(oculareruption)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_EyeEruption"
+	},
+	{
+		"abr": "psytrainer(ocularsprout)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_OcularSprout"
+	},
+	{
+		"abr": "psytrainer(regeneration)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Regeneration"
+	},
+	{
+		"abr": "psytrainer(savagepsychicslice)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Slice"
+	},
+	{
+		"abr": "psytrainer(skewer)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_Skewer"
+	},
+	{
+		"abr": "psytrainer(spincut)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SpinCut"
+	},
+	{
+		"abr": "psytrainer(strengtheninsect)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_StrengthenInsect"
+	},
+	{
+		"abr": "psytrainer(summonblackqueen)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonBlackQueen"
+	},
+	{
+		"abr": "psytrainer(summonblackscarab)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonBlackScarab"
+	},
+	{
+		"abr": "psytrainer(summonblackspelopede)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonBlackSpelopede"
+	},
+	{
+		"abr": "psytrainer(summonblackspider)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonBlackSpider"
+	},
+	{
+		"abr": "psytrainer(summonentrancetothehive)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonHive"
+	},
+	{
+		"abr": "psytrainer(summoneyelinghorde)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonEyelingHorde"
+	},
+	{
+		"abr": "psytrainer(summoneyeling)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonEyeling"
+	},
+	{
+		"abr": "psytrainer(summonmammothworm)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonMammothWorm"
+	},
+	{
+		"abr": "psytrainer(summonocularoriginator)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_SummonOcularOriginator"
+	},
+	{
+		"abr": "psytrainer(venomspit)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_VenomSpit"
+	},
+	{
+		"abr": "psytrainer(webslinging)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_AAVPE_WebSlinging"
+	},
+	{
+		"abr": "summonedblackqueen",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "AAVPE_BlackQueen"
+	},
+	{
+		"abr": "summonedblackscarab",
+		"price": 250,
+		"category": "Animals",
+		"defname": "AA_BlackScarab_Temporary"
+	},
+	{
+		"abr": "summonedblackspelopede",
+		"price": 417,
+		"category": "Animals",
+		"defname": "AA_BlackSpelopede_Temporary"
+	},
+	{
+		"abr": "summonedblackspider",
+		"price": 917,
+		"category": "Animals",
+		"defname": "AA_BlackSpider_Temporary"
+	},
+	{
+		"abr": "summonedeyeling",
+		"price": 167,
+		"category": "Animals",
+		"defname": "AA_Summoned_Eyeling"
+	},
+	{
+		"abr": "summonedmammothworm",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "AA_MammothWorm_Temporary"
+	},
+	{
+		"abr": "theheuristiceye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheHeuristicEye"
+	},
+	{
+		"abr": "themeretriciouseye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheMeretriciousEye"
+	},
+	{
+		"abr": "thenumbingeye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheNumbingEye"
+	},
+	{
+		"abr": "theomniscienteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheOmniscientEye"
+	},
+	{
+		"abr": "thequiescenteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheQuiescentEye"
+	},
+	{
+		"abr": "therecalcitranteye",
+		"price": 167,
+		"category": "Teratogenic parts",
+		"defname": "AA_TheRecalcitrantEye"
+	},
 	],
-	"total": 3638
+	"total": 3687
 }
