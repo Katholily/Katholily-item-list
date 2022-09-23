@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 8000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 26000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -246,11 +236,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
-		"price": 25000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -426,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 82
 }
