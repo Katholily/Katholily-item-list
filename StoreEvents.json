@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 7500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 8000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 65000,
+		"price": 650000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 32000,
+		"price": 320000,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 7000,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,8 +127,13 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1500,
+		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -211,6 +216,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -232,12 +242,12 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 25000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 25000,
 		"karmatype": "Bad"
 	},
 	{
@@ -251,18 +261,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +357,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
