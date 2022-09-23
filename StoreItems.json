@@ -70,55 +70,55 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "deathacidifier",
@@ -130,13 +130,13 @@
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": 942
+      "price": -10
     },
     {
       "abr": "heart",
@@ -9730,7 +9730,7 @@
       "abr": "archotecheraser",
       "category": "Utility",
       "defname": "VFEI_Artifacts_ArchotechEraser",
-      "price": 1083
+      "price": 1050
     },
     {
       "abr": "archotechteleporter",
