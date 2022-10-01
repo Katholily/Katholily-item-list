@@ -6034,7 +6034,7 @@
       "abr": "ancientgiantspider",
       "category": "Animals",
       "defname": "VAECaves_AncientGiantSpider",
-      "price": 70000
+      "price": -10
     },
     {
       "abr": "blindsalamander",
@@ -6070,7 +6070,7 @@
       "abr": "insectoidhulk",
       "category": "Animals",
       "defname": "VAECaves_InsectoidHulk",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "wyrm",
@@ -7642,13 +7642,13 @@
       "abr": "angelmothlarva",
       "category": "Animals",
       "defname": "AA_AngelMothLarva",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "angelmoth",
       "category": "Animals",
       "defname": "AA_AngelMoth",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "animacolossus",
@@ -7678,7 +7678,7 @@
       "abr": "larvalatispec",
       "category": "Animals",
       "defname": "AA_LarvalAtispec",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "atispec",
@@ -8008,19 +8008,19 @@
       "abr": "gigantelope",
       "category": "Animals",
       "defname": "AA_Gigantelope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "greatdevourer",
       "category": "Animals",
       "defname": "AA_GreatDevourer",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "greengoo",
       "category": "Animals",
       "defname": "AA_GreenGoo",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "grey-coatedmouflon",
@@ -8044,7 +8044,7 @@
       "abr": "infectedaerofleet",
       "category": "Animals",
       "defname": "AA_InfectedAerofleet",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "ironhuskbeetle",
@@ -8056,7 +8056,7 @@
       "abr": "junglelisk",
       "category": "Animals",
       "defname": "AA_Junglelisk",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "lockjaw",
@@ -8068,7 +8068,7 @@
       "abr": "luciferbug",
       "category": "Animals",
       "defname": "AA_LuciferBug",
-      "price": 16670
+      "price": -10
     },
     {
       "abr": "mammothworm",
@@ -8110,7 +8110,7 @@
       "abr": "mime",
       "category": "Animals",
       "defname": "AA_Mime",
-      "price": 16670
+      "price": -10
     },
     {
       "abr": "mycoidcolossus",
@@ -8158,13 +8158,13 @@
       "abr": "ocularjelly",
       "category": "Animals",
       "defname": "AA_OcularJelly",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "ocularnightling",
       "category": "Animals",
       "defname": "AA_OcularNightling",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "overgrowncolossus",
@@ -8230,13 +8230,13 @@
       "abr": "redgoo",
       "category": "Animals",
       "defname": "AA_RedGoo",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "redspore",
       "category": "Animals",
       "defname": "AA_RedSpore",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "ripperhound",
@@ -9580,7 +9580,7 @@
       "abr": "sduiggles",
       "category": "Animals",
       "defname": "Sduiggles",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "seasnake",
@@ -9832,7 +9832,7 @@
       "abr": "insectoidqueen",
       "category": "Animals",
       "defname": "VFEI_Insectoid_Queen",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "royalmegaspider",
@@ -9844,7 +9844,7 @@
       "abr": "gigalocust",
       "category": "Animals",
       "defname": "VFEI_Insectoid_Gigalocust",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "megapede",
@@ -9856,13 +9856,13 @@
       "abr": "larvae",
       "category": "Animals",
       "defname": "VFEI_Insectoid_Larvae",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "vat-grownboomtick",
       "category": "Animals",
       "defname": "VFEI_VatgrownBoomtick",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "vat-growncuterpillar",
@@ -9874,103 +9874,103 @@
       "abr": "vat-growngigascorpion",
       "category": "Animals",
       "defname": "VFEI_VatGrownGigascorpion",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "vat-growngigawig",
       "category": "Animals",
       "defname": "VFEI_VatGrownGigawig",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "vat-grownmegacricket",
       "category": "Animals",
       "defname": "VFEI_VatGrownMegacricket",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "vat-grownmilkbeetle",
       "category": "Animals",
       "defname": "VFEI_VatGrownMilkbeetle",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "vat-grownmonstrosity",
       "category": "Animals",
       "defname": "VFEI_VatGrownMonstrosity",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "vat-grownprincess",
       "category": "Animals",
       "defname": "VFEI_VatGrownPrincess",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "vat-grownroyallarva",
       "category": "Animals",
       "defname": "VFEI_VatgrownRoyalLarva",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "vat-grownroyalmaggot",
       "category": "Animals",
       "defname": "VFEI_VatGrownRoyalMaggot",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "vat-grownspiderweaver",
       "category": "Animals",
       "defname": "VFEI_VatGrownSpiderweaver",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "vat-growntitanbeetle",
       "category": "Animals",
       "defname": "VFEI_VatGrownTitanbeetle",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "vat-growngigalocust",
       "category": "Animals",
       "defname": "VFEI_VatGrownGigalocust",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "vat-grownmegapede",
       "category": "Animals",
       "defname": "VFEI_VatGrownMegapede",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "vat-grownmegascarab",
       "category": "Animals",
       "defname": "VFEI_VatGrownMegascarab",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "vat-grownmegaspider",
       "category": "Animals",
       "defname": "VFEI_VatgrownMegaspider",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "vat-grownspelopede",
       "category": "Animals",
       "defname": "VFEI_VatGrownSpelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "vat-grownwargling",
       "category": "Animals",
       "defname": "VFEI_VatGrownWargling",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "vat-grownworkerant",
       "category": "Animals",
       "defname": "VFEI_VatGrownWorkerAnt",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "factoryhopper",
@@ -12130,7 +12130,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "aberrantmeat",
@@ -14458,25 +14458,25 @@
       "abr": "fleshflies",
       "category": "Animals",
       "defname": "GR_FleshFlies",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshgrowth",
       "category": "Animals",
       "defname": "GR_FleshGrowth",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshmonstrosity",
       "category": "Animals",
       "defname": "GR_FleshMonstrosity",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "fleshling",
       "category": "Animals",
       "defname": "GR_Fleshling",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "flint",
@@ -15424,7 +15424,7 @@
       "abr": "insectoidparagon",
       "category": "Animals",
       "defname": "GR_ParagonInsectoid",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "islamicslab(broad)",
@@ -15874,7 +15874,7 @@
       "abr": "lavasioth",
       "category": "Animals",
       "defname": "Lavasioth",
-      "price": 8500
+      "price": -10
     },
     {
       "abr": "lavasiothegg",
@@ -16180,7 +16180,7 @@
       "abr": "mecha-mime",
       "category": "Animals",
       "defname": "GR_Mechamime",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "mecha-muffalo",
@@ -16228,7 +16228,7 @@
       "abr": "mechaspider",
       "category": "Animals",
       "defname": "GR_Mechaspider",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "mechathrumbo",
@@ -18652,7 +18652,7 @@
       "abr": "skeleton",
       "category": "Animals",
       "defname": "VPE_SummonedSkeleton",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "skyburialspot",
@@ -21832,7 +21832,7 @@
       "abr": "ocularoriginator",
       "category": "Animals",
       "defname": "AA_OcularOriginator",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(acidspit)",
@@ -22138,13 +22138,13 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1400
+      "price": 1392
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 650
+      "price": 642
     },
     {
       "abr": "guestbedroll",
@@ -22198,7 +22198,7 @@
       "abr": "guestrestoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTableGuest",
-      "price": 633
+      "price": 625
     },
     {
       "abr": "guestcanopy",
@@ -22252,13 +22252,13 @@
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 858
+      "price": 850
     },
     {
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": 1917
+      "price": 1900
     },
     {
       "abr": "guestslabbed",
@@ -22300,7 +22300,7 @@
       "abr": "guestclassydoublebed",
       "category": "Furniture",
       "defname": "GL_ClassyDoubleBedGuest",
-      "price": 908
+      "price": 900
     },
     {
       "abr": "guesttent",
@@ -22312,7 +22312,7 @@
       "abr": "guesthaybed",
       "category": "Furniture",
       "defname": "VBY_HaybedGuest",
-      "price": 55
+      "price": 56
     },
     {
       "abr": "guestleatherbed",
@@ -22324,7 +22324,7 @@
       "abr": "guestdoublehaybed",
       "category": "Furniture",
       "defname": "VBY_DoubleHaybedGuest",
-      "price": 94
+      "price": 95
     },
     {
       "abr": "guestdoubleleatherbed",
@@ -22336,13 +22336,13 @@
       "abr": "guestancientbed",
       "category": "Furniture",
       "defname": "VFEA_AncientBedGuest",
-      "price": 141
+      "price": 139
     },
     {
       "abr": "guestancientcryptosleepsuspender",
       "category": "Furniture",
       "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": 708
+      "price": 700
     },
     {
       "abr": "guestfurbed",
@@ -22360,13 +22360,13 @@
       "abr": "guestoperatingtable",
       "category": "Furniture",
       "defname": "Bed_OperatingTableGuest",
-      "price": 500
+      "price": 492
     },
     {
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": 708
+      "price": 700
     },
     {
       "abr": "guestadvancedbed",
@@ -22378,7 +22378,7 @@
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1467
+      "price": 1458
     }
   ],
   "total": 3730
